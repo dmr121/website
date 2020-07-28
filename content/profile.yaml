@@ -1,0 +1,32 @@
+- profile: David
+  initials: DR
+  name: David Rozmajzl
+  email: dmr121@zips.uakron.edu
+  profession: Recently Graduated Computer Science Major
+  image: images/profile.jpg
+  location: Canton, OH
+  relocation: true
+  company: Looking for Employment
+  for_hire: true
+  focus: App Devlelopment
+  focus_url: https://developer.apple.com/xcode/swiftui/
+  about: |
+    I like to make iOS applicatinos primarily using Apple's SwiftUI framework. I have a passion
+    for simply designed apps combined with an aesthetic UI and straightforward functionality.
+
+    Though app development is my focus right now, I am open to many different fields of work as I
+    believe in constantly working to improve myself and expand my skill set.
+
+  skills:
+    - C++
+    - Python
+    - Swift / SwiftUI
+  tools:
+    - Xcode
+    - GitHub
+    - Sublime
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
