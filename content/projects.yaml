@@ -1,7 +1,18 @@
+- name: David Chat Firebase Messaging App
+  url: https://github.com/dmr121/davidChat
+  description: Chat is a global chatroom in this app made with SwiftUI. All messages are saved on a realtime Firebase Firestore instance, and Firebase handles user authentication as well.
+  status: live
+  tags:
+    - Swift
+    - SwiftUI
+    - Firebase
+  icon: github
+  image: images/davidChat.png
+
 - name: Weather iOS App
   url: https://github.com/dmr121/weatherApp
   description: Receive realtime weather information automatically based off of your current location. Weather data is fetched from openweathermap.org's REST API. This app takes advantage of SwiftUI for devices running newer versions of iOS.
-  status: in progress
+  status: live
   tags:
     - Swift
     - SwiftUI
