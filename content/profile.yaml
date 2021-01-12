@@ -1,30 +1,29 @@
 - profile: David
   initials: DR
   name: David Rozmajzl
-  email: dmr121@zips.uakron.edu
+  email: dmrozmajzl@gmail.com
   profession: Recently Graduated Computer Science Major
   image: images/profile.jpg
   location: Canton, OH
   relocation: true
   company: Looking for Employment
   for_hire: true
-  focus: App Devlelopment
+  focus: Frontend Devlelopment
   focus_url: https://developer.apple.com/xcode/swiftui/
   about: |
-    I like to make iOS applicatinos primarily using Apple's SwiftUI framework. I have a passion
-    for simply designed apps combined with an aesthetic UI and straightforward functionality.
+    I like to make frontend applications whether it's for iOS with Apple's SwiftUI framework or a Vue app accessible via browser. As I have always been a visual person, frontend development fits naturally with my interests. I have a passion for simply designed apps combined with an aesthetic UI and straightforward functionality.
 
-    Though app development is my focus right now, I am open to many different fields of work as I
-    believe in constantly working to improve myself and expand my skill set.
+    I have some recent experience working as a consultant for 2 local companies, Bamboo Software and SkyCatchFire, doing both frontend and backend things. Primariliy, my roles have been confined to upgrading or adding features to exisiting iOS applications.
 
+    Even more recently, I have taken a greater interest in web development, specifically with the progressive web app framework called Vue. It is a natural extension of my skills as this is not my first time working with a reactive framework and also a component-based framework like Vue before.
   skills:
-    - C++
-    - Python
     - Swift / SwiftUI
+    - Python
+    - C++
   tools:
     - Xcode
+    - VSCode
     - GitHub
-    - Sublime
   budget:
     currency: $
     min: 5

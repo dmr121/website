@@ -1,7 +1,30 @@
+- name: Unnoficial Tesla News 
+  url: https://apps.apple.com/us/app/unofficial-tesla-news/id1462952472
+  description: Some of the features I added to this app, created at SkyCatchFire, are the ability to open web articles and YouTube videos without leaving the app and a a way to share article links with any app.
+  status: live
+  tags:
+    - Swift
+    - PWA
+    - SkyCatchFire
+  icon: website
+  image: images/tesla.jpeg
+
+- name: SERVD Dine More Wait Less 
+  url: https://apps.apple.com/us/app/servd-dine-more-wait-less/id1482025824
+  description: Thanks to an update I made, users can now view the current distance between themselves and any of the restaurants the app supports. This feature required some backend and frontend work, both of which I handled while learning technologies that were completely new to me at the time.
+  status: live
+  tags:
+    - Swift
+    - RxSwift
+    - Heroku
+    - Bamboo
+  icon: website
+  image: images/servd.jpeg
+
 - name: David Chat Firebase Messaging App
   url: https://github.com/dmr121/davidChat
   description: Chat is a global chatroom in this app made with SwiftUI. All messages are saved on a realtime Firebase Firestore instance, and Firebase handles user authentication as well.
-  status: live
+  status: in progress
   tags:
     - Swift
     - SwiftUI
@@ -12,7 +35,7 @@
 - name: Weather iOS App
   url: https://github.com/dmr121/weatherApp
   description: Receive realtime weather information automatically based off of your current location. Weather data is fetched from openweathermap.org's REST API. This app takes advantage of SwiftUI for devices running newer versions of iOS.
-  status: live
+  status: in progress
   tags:
     - Swift
     - SwiftUI
@@ -32,7 +55,7 @@
 - name: Drug Interactions iOS App
   url: https://github.com/dmr121/drugInteractions
   description: Don't worry about interactions between your prescriptions and over-the-counter drugs ever again. Store all your current presciptions in the cloud and search for potential negative interactions between what's in your medicine cabinet and what your doctor prescibes you.
-  status: live
+  status: in progress
   tags:
     - Swift
     - Firebase
@@ -43,7 +66,7 @@
 - name: Notes iOS App
   url: https://github.com/dmr121/notesApp
   description: Keep track of your notes post-it style. Notes are limited to 240 characters - just as long as a tweet - to keep things straightforward and simple.
-  status: live
+  status: in progress
   tags:
     - Swift
     - SwiftUI
